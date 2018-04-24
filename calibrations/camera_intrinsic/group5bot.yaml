@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [335.2420483531695, 0.0, 303.9573936867945, 0.0, 334.6937326854711, 217.50387685166808,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: group5bot/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.317529129494909, 0.0680018787417259, -0.002961735389942259, -0.0023336677068456803,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [230.48907470703125, 0.0, 302.2220059348547, 0.0, 0.0, 254.486572265625, 196.74208720587194,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
